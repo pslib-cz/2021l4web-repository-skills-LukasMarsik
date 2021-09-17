@@ -3,7 +3,7 @@ Obsahuje zatím:
 * Ahoj světe
 * Základ designu
 
-[Info](./info.html)
+[Info]( https://pslib-cz.github.io/2021l4web-repository-skills-LukasMarsik/info.html)
 |**Změna** | **popis**|
 |--------- | ---------|
 |16. 9. 21 | vytvořeno|
