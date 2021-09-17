@@ -7,5 +7,5 @@ Obsahuje zatím:
 
 **Změna** | **popis**
 --------- | ---------
-16. 9. 21 | vytvořeno
-17. 9. 21 | přidáno info
+|16. 9. 21 | vytvořeno|
+|17. 9. 21 | přidáno info|
