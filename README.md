@@ -3,4 +3,4 @@ Obsahuje zatím:
 * Ahoj světe
 * Základ designu
     *opravdu ale jen základ
-![SSSR](./red.jpg)
+![SSSR](./red.png)
