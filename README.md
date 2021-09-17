@@ -3,7 +3,7 @@ Obsahuje zatím:
 * Ahoj světe
 * Základ designu
 
-[Ifo](./info.html)
+[Info](./info.html)
 |**Změna** | **popis**|
 |--------- | ---------|
 |16. 9. 21 | vytvořeno|
