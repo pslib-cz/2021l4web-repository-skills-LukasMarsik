@@ -2,9 +2,8 @@
 Obsahuje zatím:
 * Ahoj světe
 * Základ designu
-    * **opravdu** ale jen *základ*
-![pslib](./SPSSE_Liberec_1.jpg)
 
+[GitHub](./info.html)
 **Změna** | **popis**
 --------- | ---------
 |16. 9. 21 | vytvořeno|
